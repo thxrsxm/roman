@@ -4,9 +4,10 @@ import (
 	"bufio"
 	"fmt"
 	"os"
-	"roman/internal/roman"
 	"strconv"
 	"strings"
+
+	"github.com/thxrsxm/roman/internal/roman"
 )
 
 // main runs the Roman numeral converter CLI. It processes a single command-line
